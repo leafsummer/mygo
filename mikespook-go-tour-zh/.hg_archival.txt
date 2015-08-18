@@ -1,0 +1,5 @@
+repo: 9852eb8e44f0a1ef198cdb8a636bb415819c74a8
+node: d850789fb98422f7b9020667ea90a1b4570a51b8
+branch: default
+latesttag: go.r60
+latesttagdistance: 177
